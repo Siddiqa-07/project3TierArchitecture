@@ -27,4 +27,4 @@ This project demonstrates a 3-tier architecture deployed on AWS. The architectur
 ---
 
 ### 🚀 AWS 3-Tier Project
-
+https://github.com/Siddiqa-07/project3TierArchitecture
